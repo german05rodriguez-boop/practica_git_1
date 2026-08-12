@@ -1,5 +1,4 @@
 print("Hola, estoy aprendiendo Git")
-print("vamos por la 7ma modiicacion")
+print("vamos por la modiicacion numero 11")
 ## expandion del codigo 
-## t/f
 ## en total son 14 comits
